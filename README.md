@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey! I'm Realz, I am currently learning how to program better and better. I normally use java but i also know some python, html, css, and javascript. 
 
-<!--
-**KingRealzYT/KingRealzYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
 
-Here are some ideas to get you started:
+* Swords Mod (Forge)
+* Swords Mod (Fabric)
+* CBot (Multi-Purpose Discord Bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">  
+  <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=kingrealzyt&count_private=true&include_all_commits=true&show_icons=true&theme=algolia" />
+  <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingrealzyt&layout=compact&theme=algolia" />
+</a>  
