@@ -5,6 +5,7 @@ Hey! I'm Realz, I am currently learning how to program better and better. I norm
 * Swords Mod (Forge)
 * Swords Mod (Fabric)
 * CBot (Multi-Purpose Discord Bot)
+* TMBot (Bot for a mod i work on, TerrariaMod)
 
 ## My GitHub Stats
 
