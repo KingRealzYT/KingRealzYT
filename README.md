@@ -2,10 +2,10 @@ Hey! I'm Realz, I am currently learning how to program better and better. I norm
 
 ## Current Projects
 
-* Swords Mod (Forge)
-* Swords Mod (Fabric)
-* CBot (Multi-Purpose Discord Bot)
-* TMBot (Bot for a mod i work on, TerrariaMod)
+* [Swords Mod (Forge)](https://www.github.com/KingRealzYT/SwordsModForge)
+* [Swords Mod (Fabric)](https://www.github.com/KingRealzYT/SwordsModFabric)
+* [CBot (Multi-Purpose Discord Bot)](https://www.github.com/KingRealzYT/CBot)
+* [TMBot (Bot for a mod i work on, TerrariaMod)](https://www.github.com/KingRealzYT/TerrariaModBot)
 
 ## My GitHub Stats
 
