@@ -9,6 +9,8 @@ Hey! I'm Realz, I am currently learning how to program better and better. I norm
 
 ## My GitHub Stats
 
+[![KingRealzYT' Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KingRealzYT)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">  
   <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=kingrealzyt&count_private=true&include_all_commits=true&show_icons=true&theme=algolia" />
   <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingrealzyt&layout=compact&theme=algolia" />
