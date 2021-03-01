@@ -7,7 +7,7 @@ Hey! I'm Realz, I am currently learning how to program better and better. I norm
 * [CBot (Multi-Purpose Discord Bot)](https://www.github.com/KingRealzYT/CBot)
 * [TMBot (Bot for a mod i work on, TerrariaMod)](https://www.github.com/KingRealzYT/TerrariaModBot)
 
-## My GitHub Stats
+## My Stats
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">  
@@ -15,5 +15,4 @@ Hey! I'm Realz, I am currently learning how to program better and better. I norm
   <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingrealzyt&layout=compact&theme=algolia" />
 </a>
 
-## My Wakatime Stats
 [![KingRealzYT' Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KingRealzYT)](https://github.com/anuraghazra/github-readme-stats)
