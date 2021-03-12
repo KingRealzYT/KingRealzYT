@@ -1,4 +1,4 @@
-Hey! I'm Realz, I am currently learning how to program better and better. I normally use java but i also know some python, html, css, and javascript. 
+Hey! I'm Realz, I am currently learning how to program better and better. Java is my main language but I am working on learning Javascript, Python, and more!
 
 ## Current Projects
 
