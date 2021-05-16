@@ -15,4 +15,8 @@ Hey! I'm Realz, I am currently learning how to program better and better. Java i
   <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingrealzyt&layout=compact&theme=algolia" />
 </a>
 
+<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kingrealzyt&show_icons=true&hide_border=true&theme=tokyonight" />
+<br/>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kingrealzyt&hide_border=true&theme=tokyonight" alt="kingrealzyt" /></p>
+
 [![KingRealzYT' Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KingRealzYT)](https://github.com/anuraghazra/github-readme-stats)
