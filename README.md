@@ -5,8 +5,7 @@ Hey! I'm Realz, I am currently learning how to program better and better. Java i
 * [Swords Mod (Forge)](https://www.github.com/KingRealzYT/SwordsModForge)
 * [Swords Mod (Fabric)](https://www.github.com/KingRealzYT/SwordsModFabric)
 * [Aquatic Artifacts](https://www.github.com/KingRealzYT/AquaticArtifacts)
-* [CBot (Multi-Purpose Discord Bot)](https://www.github.com/KingRealzYT/CBot)
-* [TMBot (Bot for a mod i work on, TerrariaMod)](https://www.github.com/KingRealzYT/TerrariaModBot)
+* [RealzBot (Multi-Purpose Discord Bot)](https://www.github.com/KingRealzYT/RealzBot)
 
 ## My Stats
 
